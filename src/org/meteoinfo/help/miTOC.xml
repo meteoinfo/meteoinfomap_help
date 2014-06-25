@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+         "../dtd/toc_2_0.dtd">
+
+<toc version="2.0">
+<tocitem text="MeteoInfo Help" image="toplevelfolder">
+  <tocitem text="Introduction" target="introduction"/>
+  <tocitem text="Download and Run MeteoInfo" target="download"/>
+  
+  <tocitem text="Supported Data" target="support_data" expand="false">
+    <tocitem text="Geographic Map Data" target="map_data"/>
+    <tocitem text="Meteorological Data" target="meteo_data"/>
+    <tocitem text="Image Data" target="image_data"/>
+  </tocitem>
+  
+  <tocitem text="Main GUI" target="main_gui"/>
+  <tocitem text="Layers and Project" target="layers_project"/>
+  
+  <tocitem text="Using Layers" target="using_layers" expand="false">
+      <tocitem text="Add Layer" target="add_layer"/>
+      <tocitem text="Layer Properties" target="layer_properties" expand="false">
+          <tocitem text="Legend Scheme" target="legend_scheme"/>
+          <tocitem text="Transparency Set" target="transparency_set"/>
+          <tocitem text="Attribute Table" target="attribute_table"/>
+      </tocitem>
+      <tocitem text="Image Layer" target="image_layer" expand="false">
+          <tocitem text="World File" target="world_file"/>
+          <tocitem text="Geo-Locate Image Layer" target="geo_locate"/>
+      </tocitem>
+  </tocitem>
+  
+  <tocitem text="Using Meteorological Data" target="using_meteodata" expand="false">
+      <tocitem text="Open Meteorological Data" target="open_meteodata"/>
+      <tocitem text="Plot Grid Data" target="plot_griddata" expand="false">
+          <tocitem text="Contour and Shaded" target="contour_shaded"/>
+          <tocitem text="Grid Fill and Grid Point" target="gridfill_point"/>
+          <tocitem text="Raster" target="raster"/>
+          <tocitem text="Vector" target="vector"/>
+          <tocitem text="Barb" target="barb"/>
+          <tocitem text="Streamline" target="streamline"/>
+      </tocitem>
+      <tocitem text="Plot Station Data" target="plot_stationdata" expand="false">
+          <tocitem text="Station Point" target="station_point"/>
+          <tocitem text="Barb" target="station_barb"/>
+          <tocitem text="Weather Symbol" target="weather_symbol"/>
+          <tocitem text="Station Model" target="station_model"/>
+          <tocitem text="Contour and Shaded" target="station_contour_shaded"/>
+      </tocitem>
+      <tocitem text="Plot New Variable Data" target="new_variable"/>
+      <tocitem text="Plot HYSPLIT Data" target="plot_hysplit"/>
+      <tocitem text="Lon/Lat Station Data" target="lonlat_data"/>
+      <tocitem text="Section Plot" target="section_plot"/>
+      <tocitem text="One Dimension Plot" target="onedim_plot"/>      
+  </tocitem>
+  
+  <tocitem text="Map and Layout" target="map_layout" expand="false">
+      <tocitem text="Map Property" target="map_property"/>
+      <tocitem text="Layout Property" target="layout_property"/>
+      <tocitem text="Mask Out" target="maskout"/>
+      <tocitem text="User Plot Tools" target="plot_tools"/>
+      <tocitem text="Map Projections" target="projections"/>      
+  </tocitem>
+  
+  <tocitem text="Tools" target="tools" expand="false">
+      <tocitem text="Output Map Data" target="output_map_data"/>
+  </tocitem>
+      
+</tocitem>
+</toc>

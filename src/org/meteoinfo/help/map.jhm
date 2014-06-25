@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="toplevelfolder" url="images/toplevel.gif" />
+	<mapID target="top" url="content_en/introduction.htm" />
+	<mapID target="introduction" url="content_en/introduction.htm" />
+	<mapID target="download" url="content_en/download.htm" />
+        <mapID target="map_data" url="content_en/map_data.htm" />
+	<mapID target="meteo_data" url="content_en/meteo_data.htm" />
+	<mapID target="image_data" url="content_en/image_data.htm" />
+	<mapID target="main_gui" url="content_en/main_gui.htm" />
+	<mapID target="layers_project" url="content_en/layers_project.htm" />
+        
+	<mapID target="using_layers" url="content_en/using_layers.htm" />
+        <mapID target="add_layer" url="content_en/add_layer.htm"/>
+        <mapID target="layer_properties" url="content_en/layer_properties.htm"/>
+        <mapID target="legend_scheme" url="content_en/legend_scheme.htm"/>
+        <mapID target="transparency_set" url="content_en/transparency_set.htm"/>
+        <mapID target="attribute_table" url="content_en/attribute_table.htm"/>
+        <mapID target="image_layer" url="content_en/image_layer.htm"/>
+        <mapID target="world_file" url="content_en/world_file.htm"/>
+        <mapID target="geo_locate" url="content_en/geo_locate.htm"/>
+        
+        <mapID target="using_meteodata" url="content_en/using_meteodata.htm"/>
+        <mapID target="open_meteodata" url="content_en/open_meteodata.htm"/>
+        <mapID target="plot_griddata" url="content_en/plot_griddata.htm"/>
+        <mapID target="contour_shaded" url="content_en/contour_shaded.htm"/>
+        <mapID target="gridfill_point" url="content_en/gridfill_point.htm"/>
+        <mapID target="raster" url="content_en/raster.htm"/>
+        <mapID target="vector" url="content_en/vector.htm"/>
+        <mapID target="barb" url="content_en/barb.htm"/>
+        <mapID target="streamline" url="content_en/streamline.htm"/>
+        <mapID target="plot_stationdata" url="content_en/plot_stationdata.htm"/>
+        <mapID target="station_point" url="content_en/station_point.htm"/>
+        <mapID target="station_barb" url="content_en/station_barb.htm"/>
+        <mapID target="weather_symbol" url="content_en/weather_symbol.htm"/>
+        <mapID target="station_model" url="content_en/station_model.htm"/>
+        <mapID target="station_contour_shaded" url="content_en/station_contour_shaded.htm"/>
+        
+        <mapID target="new_variable" url="content_en/new_variable.htm"/>
+        <mapID target="plot_hysplit" url="content_en/plot_hysplit.htm"/>
+        <mapID target="lonlat_data" url="content_en/lonlat_data.htm"/>
+        <mapID target="section_plot" url="content_en/section_plot.htm"/>
+        <mapID target="onedim_plot" url="content_en/onedim_plot.htm"/>
+        
+        <mapID target="map_layout" url="content_en/map_layout.htm"/>
+        <mapID target="map_property" url="content_en/map_property.htm"/>
+        <mapID target="layout_property" url="content_en/layout_property.htm"/>
+        <mapID target="maskout" url="content_en/maskout.htm"/>
+        <mapID target="plot_tools" url="content_en/plot_tools.htm"/>
+        <mapID target="projections" url="content_en/projections.htm"/>
+        
+        <mapID target="tools" url="content_en/tools.htm"/>
+        <mapID target="output_map_data" url="content_en/output_map_data.htm"/>
+</map>
