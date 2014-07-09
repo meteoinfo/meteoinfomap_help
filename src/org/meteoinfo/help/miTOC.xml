@@ -29,6 +29,7 @@
           <tocitem text="World File" target="world_file"/>
           <tocitem text="Geo-Locate Image Layer" target="geo_locate"/>
       </tocitem>
+      <tocitem text="Web Map Layer" target="webmap_layer"/>
   </tocitem>
   
   <tocitem text="Using Meteorological Data" target="using_meteodata" expand="false">

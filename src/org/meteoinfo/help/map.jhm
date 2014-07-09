@@ -24,6 +24,7 @@
         <mapID target="image_layer" url="content_en/image_layer.htm"/>
         <mapID target="world_file" url="content_en/world_file.htm"/>
         <mapID target="geo_locate" url="content_en/geo_locate.htm"/>
+        <mapID target="webmap_layer" url="content_en/webmap_layer.htm"/>
         
         <mapID target="using_meteodata" url="content_en/using_meteodata.htm"/>
         <mapID target="open_meteodata" url="content_en/open_meteodata.htm"/>
