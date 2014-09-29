@@ -22,7 +22,7 @@
     <data>miTOC.xml</data>
   </view>
 
-  <view>
+<!--  <view>
     <name>Index</name>
     <label>Index</label>
     <type>javax.help.IndexView</type>
@@ -36,7 +36,7 @@
     <data engine="com.sun.java.help.search.DefaultSearchEngine">
       JavaHelpSearch
     </data>
-  </view>
+  </view>-->
 
   <presentation default="true" displayviewimages="true">
      <name>main window</name>
